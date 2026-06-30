@@ -1,3 +1,6 @@
+"engines": {
+  "node": ">=18.0.0"
+}
 {
   "name": "nayepankh-foundation",
   "private": true,
