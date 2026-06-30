@@ -2,7 +2,7 @@
 
 A modern, responsive, and premium-quality landing website for **NayePankh Foundation**, a UP Government registered NGO (80G & 12A) dedicated to uplifting underprivileged communities across India through education, health, and compassionate support.
 
-**Live Site:** [nayepankh19.netlify.app](nayepankh19.netlify.app)
+**Live Site:** [nayepankh19.netlify.app](https://nayepankh19.netlify.app)
 
 ---
 
